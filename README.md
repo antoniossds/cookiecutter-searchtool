@@ -1,5 +1,7 @@
 # cookiecutter-searchtool
 
+I have provided the paper to outline in more detail how the metrics and the tool work.
+
 Download the folders containing the templates and read me files for the top 300 most popular cookicutters.
 You may need to change folder names and create an output folder.
 
